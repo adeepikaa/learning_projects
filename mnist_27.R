@@ -8,7 +8,7 @@
 # MNIST consists of 60,000 training images and 10,000 test images
 
 # Postal services use digit recognition to sort mail and need the system to be very accurate 
-# to avoid missing mail.
+# to avoid missing mail. 
 
 # The dslabs library has a subset of the MNIST dataset which include images for the
 # digits 2 and 7. Each image has 784 pixels that are the predictors for the algorithms.
