@@ -13,8 +13,9 @@
 # The dslabs library has a subset of the MNIST dataset which include images for the
 # digits 2 and 7. Each image has 784 pixels that are the predictors for the algorithms.
 # The MNIST is a very popular learning exercise for Machine Learning
-# The analysis performed in this file is part of the learning exercises in HarvardX  
-# Machine Learning Course 
+
+# The analysis on this dataset was done as part of the course work in 
+# HarvardX PH125.9x Certificate Program
 
 # This file uses this subset of 800 images for training and 200 images for testing with
 # two predictors x_1, x_2 that the upper_left quadrant pixels of each image.
