@@ -12,7 +12,8 @@
 # and y (outcome) in matrix format
 # The predictors are based on features that are further described below
 
-# The goal of this analysis is to predict the diagnosis label B or M
+# The analysis on this dataset was done as part of the course work in 
+# HarvardX PH125.9x Certificate Program
 
 
 # Load libraries
